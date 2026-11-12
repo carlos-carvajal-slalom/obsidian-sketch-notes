@@ -8,6 +8,13 @@ Agent → local terminal → Obsidian CLI → Excalidraw plugin → editable vau
 
 It is not another Excalidraw CLI, renderer, cloud service, or scene serializer. The installed plugin owns drawing construction, revision checks, persistence, and exports.
 
+## Upstream project
+
+This bundled helper is based on [zsviczian/obsidian-excalidraw-cli](https://github.com/zsviczian/obsidian-excalidraw-cli).
+The upstream `LICENSE` is preserved alongside this copy; retain it and this
+attribution when redistributing the bundle. The separate
+[Excalidraw CLI](https://github.com/excalidraw/cli) is a different project.
+
 ## Give it to an agent
 
 Provide a local checkout or a copy of the repository, then use this handoff, replacing the placeholders:

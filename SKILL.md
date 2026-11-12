@@ -122,6 +122,9 @@ The complete portable native-CLI bundle is at
 instructions](./tools/obsidian-excalidraw-cli/SKILL.md) and read the relevant
 references there, especially `docs/getting-started.md`,
 `docs/native-cli-workflow.md`, `docs/authoring.md`, and `docs/troubleshooting.md`.
+The bundled helper is based on
+[zsviczian/obsidian-excalidraw-cli](https://github.com/zsviczian/obsidian-excalidraw-cli);
+preserve its included license and attribution when redistributing it.
 The companion ExcalidrawAutomate authoring references are in
 `./references/ea-script-template/`; use them to inform drawing style and API choices,
 not as permission to execute a script.
